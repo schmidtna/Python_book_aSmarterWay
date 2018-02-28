@@ -39,3 +39,11 @@
 #     print("You have a car!")
 # else:
 #     print("Get a taxi")
+
+# num_check = 4
+
+# if num_check % 2 != 0:
+#     print("Thats an odd number.")
+# else:
+#     print("That's an even number.")
+
